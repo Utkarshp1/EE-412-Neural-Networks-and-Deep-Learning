@@ -4,4 +4,4 @@ This repository is created as part of Neural Networks and Deep Learning course a
 
 | **Lab** | **Algorithms/Model** |
 | --- | --- |
-| [Lab 1](/Early Models of Neurons/Lab1.ipynb) | McCulloch-Pitts Model, Rosenblatt's Perceptron Model, Widrow's Adaline Model |
+| [Lab 1](Early Models of Neurons/Lab1.ipynb) | McCulloch-Pitts Model, Rosenblatt's Perceptron Model, Widrow's Adaline Model |
