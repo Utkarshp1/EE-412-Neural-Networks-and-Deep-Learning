@@ -13,4 +13,4 @@ This repository is created as part of Neural Networks and Deep Learning course a
 | [Lab 7](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Convolutional%20Neural%20Networks) | Convolutional Neural Networks |
 | [Lab 8](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/CNN%20using%20TensorFlow) | CNNs Using TensorFlow |
 | [Lab 9](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Autoencoders) | Autoencoders |
-| [Lab 10](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Regularization%in%Autoencoders) | Regularization in Autoencoders |
+| [Lab 10](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Regularization%20in%20Autoencoders) | Regularization in Autoencoders |
