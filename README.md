@@ -10,4 +10,7 @@ This repository is created as part of Neural Networks and Deep Learning course a
 | [Lab 4](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Auto_Associative%20Network) | Auto Associative Networks |
 | [Lab 5](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Hetero%20Associative%20Network) | Hetero Associative Networks |
 | [Lab 6](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Multi%20Layer%20Feedforward%20Network) | Multi Layer Feedforward Networks |
-| [lab 7](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Convolutional%20Neural%20Networks) | Convolutional Neural Networks |
+| [Lab 7](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Convolutional%20Neural%20Networks) | Convolutional Neural Networks |
+| [Lab 8](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/CNN%20using%20TensorFlow) | CNNs Using TensorFlow |
+| [Lab 9](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Autoencoders) | Autoencoders |
+| [Lab 10](https://github.com/Utkarshp1/EE-412-Neural-Networks-and-Deep-Learning/tree/master/Regularization%in%Autoencoders) | Regularization in Autoencoders |
